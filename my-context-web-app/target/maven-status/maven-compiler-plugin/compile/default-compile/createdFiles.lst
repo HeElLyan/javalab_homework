@@ -1,0 +1,9 @@
+ru/naumow/repositories/RowMapper.class
+ru/naumow/models/Product$Builder.class
+ru/naumow/repositories/CrudRepository.class
+ru/naumow/controller/DefaultController.class
+ru/naumow/connection/MysqlConnectionPool.class
+ru/naumow/repositories/ProductRepository.class
+ru/naumow/models/Product.class
+ru/naumow/presenters/Presenter.class
+ru/naumow/repositories/impl/ProductRepositoryJdbcImpl.class
